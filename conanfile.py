@@ -4,7 +4,7 @@ from os import environ
 
 class SECP256K1Conan(ConanFile):
     name = "SECP256K1"
-    version = "0.1"
+    version = "0.2"
     license = "<Put the package license here>"
     author = "<Put your name here> <And your email here>"
     url = "<Package recipe repository url here, for issues about the package>"
